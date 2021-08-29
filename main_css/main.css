@@ -1,0 +1,94 @@
+
+body{
+    /*background-image: linear-gradient(to right,  rgba(248, 246, 246, 0), rgb(24, 19, 19));*/
+    margin-left: 20%;
+   
+   
+}
+section{
+    display: flex;
+}
+
+#pic{
+    margin-top: 30px;
+    width: 430px;
+    height: 450px;
+}
+.part-2{
+    /*border: black 1px solid;*/
+    width: 70%;
+    padding-left: 40px;
+}
+.part-2 h1 {
+    text-align: justify;
+    font-size: 32px;
+    width: 100%;
+}
+.part-2 p{
+    text-align: justify;
+    width: 85%;
+    padding-bottom: 1px;
+}
+
+#Catagorry{
+    padding-bottom: 3px;
+    width: 95%;
+}
+button{
+    background-color: rgba(255, 99, 71, 0) ;
+    color: lime;
+    font-weight: 800;
+    padding: 5px;
+    margin: 1px;
+   border-radius: 4px;
+   border-color: linear-gradient( red , yellow) 20px solid;
+}
+button:hover {
+    background-image: linear-gradient(to right, red , yellow);
+    color: lime;
+  }
+  .price_1{
+      padding: 20px;
+  }
+  .part{
+      padding-left: 20px;
+  }
+.table{
+    position: absolute;
+    width: 30%;
+    height: 40px;
+
+    
+}
+table{
+    width: 80%;
+    color: red;
+    font-size: 25px;
+}
+.part_3  {
+    height: 200px;
+    width: 100%;
+}
+.part_3 h1{
+    margin-top: -0px;
+}
+.part_3 input{
+    padding: 5px;
+    font-size: 20px;
+    width: 40%;
+    margin-top: -20px;
+}
+.part_3 button{
+    margin-left: 10px;
+    margin-top: -0px;
+}
+.end{
+    margin-left: -40px;
+    width: 90%;
+    margin-top: -90px;
+}
+.end_h1{
+    text-align: center;
+    margin-left: -300px;
+}
+
